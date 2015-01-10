@@ -1,4 +1,5 @@
 # test
 create a readme file in remote repo, just for test clone command.
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple.I
+Add merge.
 
